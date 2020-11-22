@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "rushi",
+      "password": "rushi"
+    },
+    {
+      "name": "rushikesh",
+      "password": "desai",
+      "id": 2
+    },
+    {
+      "name": "djhfdhkf",
+      "password": "djhfjkdhfkj",
+      "id": 3
+    },
+    {
+      "name": "dfjkdjkfk",
+      "password": "sdkjfkk",
+      "id": 4
+    },
+    {
+      "name": "jkljkl",
+      "password": "njjnj",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
